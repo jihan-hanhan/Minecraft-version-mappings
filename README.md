@@ -1,3 +1,4 @@
+[[中文]](README_zh_CN.md) [ENG]
 # Minecraft Version Mappings
 
 **This repository maps the new Minecraft version numbers (post-26.1 naming reform) to their legacy equivalents.**
