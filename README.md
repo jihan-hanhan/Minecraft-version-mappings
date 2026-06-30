@@ -24,3 +24,4 @@ Since Minecraft updates have become more fragmented, a new major version number 
 ***The content in this repository does not represent the official stance or intentions of Mojang.*** It is merely a fan-made project for Minecraft enthusiasts to track the game's evolution.
 
 **Contributions from all Minecraft enthusiasts are welcome!**
+> Translate by AI
