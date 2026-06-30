@@ -1,3 +1,4 @@
+[中文] [[ENG]](README.md)
 # Minecraft version mappings
 
 **这个仓库用来记录自Minecraft 26.1以后的新版本所对应的旧版本号**  
